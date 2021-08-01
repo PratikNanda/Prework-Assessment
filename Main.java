@@ -18,9 +18,9 @@ public class Main {
 			num1 = num1 / 10;
 		}
 		if (temp1 == revnum) {
-			System.out.println("Given Number " + temp1 + " is Palindrome");
+			System.out.println("Given Number " + temp1 + " is Palindrome.");
 		} else {
-			System.out.println("Given Number " + temp1 + " is Not a Palindrome");
+			System.out.println("Given Number " + temp1 + " is Not a Palindrome.");
 		}
 	}
 
@@ -57,9 +57,9 @@ public class Main {
 
 		}
 		if (count > 2) {
-			System.out.println("Given Number " + num3 + " Not Prime");
+			System.out.println("Given Number " + num3 + " is Not Prime.");
 		} else {
-			System.out.println("Given Number " + num3 + " Prime");
+			System.out.println("Given Number " + num3 + " is Prime.");
 		}
 
 	}
